@@ -1,6 +1,6 @@
 body{
     overflow: auto;
-    font-size:325%;
+    font-size:400%;
 }
 header{
     font-family: Arial;
@@ -17,7 +17,7 @@ div.main-picture img{
 }
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 400%;
+    font-size: 500%;
     margin-bottom: 5px;
     margin-top: 5px;
     color: #024282;
@@ -63,7 +63,7 @@ nav a.active{
     color: blue;
 }
 nav a{
-    font-size: 300%;
+    font-size: 450%;
     text-align: center;
     width: 97%;
     margin: 0.5%;
@@ -93,7 +93,7 @@ nav a:active{
     border-radius: 5px;
     text-decoration: none;
     font-family: serif;
-    font-size: 300%
+    font-size: 450%
     display: inline-block;
     transition-duration: 0.8s;
 }
