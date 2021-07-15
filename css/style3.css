@@ -124,7 +124,7 @@ input{
 
 
 
-@media screen and (min-width:520px){
+@media screen and (min-width:724px){
     
     nav a{
         display: inline-block;
@@ -132,7 +132,7 @@ input{
         padding: 1px;
     }
     #form{
-        width: 440px;
+        width: 660px;
     }
 
 }
