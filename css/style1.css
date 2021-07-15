@@ -138,7 +138,7 @@ footer a{
 
 
 
-@media screen and (min-width:724px){
+@media screen and (min-width:1080px){
     .main-upper-part-content{
         display:inline-block;
         width: 49%;
@@ -166,7 +166,7 @@ footer a{
     }
 }
 
-@media screen and (min-width:1200px){
+@media screen and (min-width:1400px){
     h1, div.directing-to-contact-page a{
 
         margin-bottom: 5px;
