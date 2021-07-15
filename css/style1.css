@@ -1,6 +1,6 @@
 body{
     overflow: auto;
-    font-size:400%;
+    font-size:200%;
 }
 header{
     font-family: Arial;
@@ -63,7 +63,7 @@ nav a.active{
     color: blue;
 }
 nav a{
-    font-size: 450%;
+    font-size: 200%;
     text-align: center;
     width: 97%;
     margin: 0.5%;
@@ -93,7 +93,7 @@ nav a:active{
     border-radius: 5px;
     text-decoration: none;
     font-family: serif;
-    font-size: 450%
+    font-size: 200%
     display: inline-block;
     transition-duration: 0.8s;
 }
